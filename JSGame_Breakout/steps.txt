@@ -1,0 +1,18 @@
+1- create 3 pages : index.html style.css app.js(ing1)
+2- create ball object
+3- create paddle object
+(img3)
+4- create // Drow Function: play() :run the animation
+(img4)
+5- create function to move the paddle  
+(img5) 
+6- make the balance off the paddle
+(img6)
+7- create bricks
+(img7)
+8-implement some basic collision to that detection 
+for when the ball touches any of the bricks I want to disappear 
+9- Display the score (img9)
+10- implement a level up function (img10)
+11- Reset score(img11)
+12- Add sound
